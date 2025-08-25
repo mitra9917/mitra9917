@@ -1,5 +1,21 @@
 # 💫 About Me:
-👨‍💻 2nd year CSE student @ VIT Chennai  <br>🌐 Web Dev enthusiast | Frontend basics sorted  <br>☁️ Beginner in AWS & exploring cloud possibilities  <br>🎨 Comfortable with Figma for UI/UX design  <br>⚡ Learning, building & shipping projects one step at a time<br>
+👨‍💻 2nd year CSE student @ VIT Chennai  <br>🌐 Web Dev enthusiast | Frontend basics sorted  <br>☁️ Beginner in AWS & exploring cloud possibilities  <br>⚡ Learning, building & shipping projects one step at a time<br>
+🌍 Trying to figure out the web (and sometimes the world) <br>
+🎨 UI/UX tinkerer on Figma (aka moving shapes until they *look right*)  
+⚡ Fun fact: Most of my projects start with "What if I just..."  
+
+---
+
+### 🌱 What I’m up to:
+- Building tiny projects that may or may not break your browser 🚀  
+- Learning by failing fast (and googling faster)  
+- Looking for collabs, memes, or both 🤝😂  
+
+---
+
+### 📬 Connect with me:
+- Drop me a DM here on GitHub  
+- Or just send me memes, I reply faster to those  
 
 
 ## 🌐 Socials:
