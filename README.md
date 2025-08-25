@@ -4,6 +4,8 @@
 🎨 UI/UX tinkerer on Figma (aka moving shapes until they *look right*)  
 ⚡ Fun fact: Most of my projects start with "What if I just..."  
 
+🌐✨ Want to see my work in action? [🚀 Live Portfolio Demo](https://portfolio-shubham-mitra.netlify.app/) – a small showcase of my projects, experiments, and web dev journey so far.  
+
 ---
 
 ### 🌱 What I’m up to:
